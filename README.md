@@ -11,6 +11,7 @@ I created a pivot table "Theater Outcomes by Launch Date" to filter the data by 
 
 ### Analysis of Outcomes Based on Launch Date
 I find that the month that launched the most successful theater campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. June seems to be a good month to launch a campaign! 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/38533045/125206357-7ef04700-e24c-11eb-9c4c-07dc9020e993.png)
 
 
 ### Analysis of Outcomes Based on Goals
