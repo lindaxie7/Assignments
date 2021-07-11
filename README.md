@@ -24,17 +24,17 @@ The outcomes based on goals was a bit challenge for me, to understand the filter
 
 ## Results
 
-### What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 I find that the month that launched the most successful theater campaigns was May.
 January, June, July and October all had roughly the same number of failed campaigns launched.
 
-### What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 The $30000 fundraising goal seems a good goal to start a campaign.
 The $45000 fundraising goal seems a good goal to end the campaign. 
 
 
-### What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 We have limited data information included in the Kickstarter spreadsheet, including more data will make our analysis even more detailed and thus generate additional insight.
 
-### What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 We could create outcomes based on pledged, We could also create theater outcomes by country, category outcomes by Years.
