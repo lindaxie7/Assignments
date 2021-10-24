@@ -19,8 +19,6 @@ I find that failed Kickstarter campaigns have much higher fundraising goals than
 $25000 to $30000 fundraising goal is the point where the failed campaigns reached to the peak and the successful campaigns starts to raising. And when the fundrasing goal reach to $45000 to $50000, the successful campaign goes to the lowest point. So the $30000 fundraising goal seems a good goal to start a campaign, and the $45000 fundraising goal seems a good goal to end the campaign. 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/38533045/125206406-bd860180-e24c-11eb-91d0-0e0a3c7ea229.png)
 
-### Challenges and Difficulties Encountered
-The outcomes based on goals was a bit challenge for me, to understand the filtering requriement clearly and use the countifs function to get the cumulative information based on goals.
 
 ## Results
 
